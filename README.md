@@ -5,7 +5,7 @@
 
 😶‍🌫️ *Software Architect at [Devsu](https://www.devsu.com)*
 
-
+~
 
 - 🌱 I specialize in .Net
 - 📫 Reach me at www.linkedin.com/in/cesar-intriago

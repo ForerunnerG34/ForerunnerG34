@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I'm specialized in .Net
+- 🌱 I specialize in .Net
 - 📫 Reach me at www.linkedin.com/in/cesar-intriago
 
 <!---

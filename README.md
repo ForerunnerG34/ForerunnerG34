@@ -8,7 +8,7 @@
 ~
 
 - ❤️ .Net
-- 📫 Reach me at www.linkedin.com/in/cesar-intriago
+- 📫 Reach me at www.linkedin.com/in/cesar-intriago and cesar@unraisedcode.net
 
 <!---
 ForerunnerG34/ForerunnerG34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
